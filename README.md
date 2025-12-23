@@ -56,11 +56,17 @@ https://github.com/mayurimhetre/Advanced-Machine-Learning-Project/blob/main/OnEn
 
 ---
 
-## 📚 Reference
+## 📚 References
 
-Carrizosa, E., Kurishchenko, K., Romero Morales, D. (2025).  
-*On enhancing the explainability and fairness of tree ensembles.*  
-European Journal of Operational Research.
+- Carrizosa, E., Kurishchenko, K., & Romero Morales, D. (2025).  
+  *On enhancing the explainability and fairness of tree ensembles.*  
+  https://www.sciencedirect.com/science/article/pii/S0377221725000335
+
+- Supplementary material:  
+  https://ars.els-cdn.com/content/image/1-s2.0-S0377221725000335-mmc1.pdf
+
+- Scikit-learn documentation – Mean Decrease in Impurity:  
+  https://scikit-learn.org/stable/modules/permutation_importance.html
 
 ---
 
