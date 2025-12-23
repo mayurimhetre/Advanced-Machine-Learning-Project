@@ -28,9 +28,11 @@ This file reflects **my interpretation and understanding** of the paper, prepare
 
 ---
 
-### 2. **Paper_Research**
-This file contains the **original research paper** used as the primary reference for the presentation.  
-It serves as the theoretical and methodological foundation for the work summarized in the slides.
+### 2. **Research Paper**
+The original research paper used as the primary reference for the presentation is included in this repository. You can view it here:
+
+🔗 **On Enhancing the Explainability and Fairness of Tree Ensembles**  
+https://github.com/mayurimhetre/Advanced-Machine-Learning-Project/blob/main/OnEnhancingTheExplainabilityAndFairnessOfTreeEnsembles.pdf
 
 ---
 
