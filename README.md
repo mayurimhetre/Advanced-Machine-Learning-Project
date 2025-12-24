@@ -1,4 +1,4 @@
-# Enhancing the Explainability and Fairness of Tree Ensembles
+# Enhancing the Explainability and Fairness of Tree Ensembles 
 
 This repository contains my academic work for the **Advanced Machine Learning** course, focused on understanding, analyzing, and presenting the research paper:
 
